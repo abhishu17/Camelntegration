@@ -1,0 +1,9 @@
+# Camelntegration
+Apache camel spring boot along with jolokia start
+
+
+How to run -
+java -javaagent:jolokia-jvm-1.5.0-agent.jar -jar integration-api-0.0.1-SNAPSHOT.jar
+
+Add jolokia in path
+
